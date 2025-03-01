@@ -136,8 +136,12 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 ## Acknowledgments
 - **AssemblyAI**: For providing the speech-to-text and summarization API.
-- **Twilio**: For enabling WhatsApp integration.
 - **React Community**: For the amazing ecosystem of tools and libraries.
+
+- ## Contributors
+- [Syed Muhammad Naqi Raza](https://github.com/naqirraza99)
+- [Rehmat Ali](https://github.com/RehmatAli2023609)
+  
 
 ## Contact
 For questions or feedback, feel free to reach out:
