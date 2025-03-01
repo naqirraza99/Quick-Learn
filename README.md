@@ -102,13 +102,16 @@ git push origin main
 
 ## Screenshots
 ### Hero Section
-Hero Section with Call-to-Action
+![Screenshot 2025-03-02 025709](https://github.com/user-attachments/assets/0c34ed67-b1a3-487b-ab38-8909734e42bc)
+
 
 ### Voice Recorder
-Voice Recorder Interface
+![Screenshot 2025-03-02 025800](https://github.com/user-attachments/assets/5a36ce47-6c91-41e5-9177-5799edc95cc1)
+
 
 ### Summary
-AI-Generated Summary with WhatsApp Sharing
+![Screenshot 2025-03-02 030216](https://github.com/user-attachments/assets/44768e77-5e8d-4cd2-993c-c77d60c80744)
+
 
 ## Contributing
 Contributions are welcome! Follow these steps:
