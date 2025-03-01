@@ -142,7 +142,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 ## Contact
 For questions or feedback, feel free to reach out:
 
-- **Email**: ynaqirazarizvi8@gmail.com
+- **Email**: naqirazarizvi8@gmail.com
 - **GitHub**: [naqiraza99](https://github.com/naqirraza99)
 
 🚀 Happy Coding!
